@@ -1,0 +1,22 @@
+{
+  "name": "extjs",
+  "version": "4.2.1-883",
+  "description": "ExtJS Mirror with GPL releases of ExtJS",
+  "main": "build/ext.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/englishdom/extjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/englishdom/extjs/issues"
+  },
+  "homepage": "https://github.com/englishdom/extjs#readme"
+}
